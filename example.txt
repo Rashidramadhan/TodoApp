@@ -1,1 +1,2 @@
 testing git processes
+am adding a second line
