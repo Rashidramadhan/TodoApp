@@ -1,2 +1,8 @@
 testing git processes
+<<<<<<< HEAD
 am adding a second line
+=======
+
+# created by James
+second line by James
+>>>>>>> 0a49591cb2f2eb00f7f8e132370902806e480ec0
